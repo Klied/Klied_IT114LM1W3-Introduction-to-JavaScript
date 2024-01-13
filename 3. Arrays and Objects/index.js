@@ -38,9 +38,9 @@ console.log("Average:", average);
 // Todo 3.3 Declare an object with information about IT114L (course code, name, units, number of students)
 const it114lObject = {
   courseCode: "IT114L",
-  name: "Introduction to Programming",
+  name: "Web Systems and Technologies",
   units: 3,
-  numberOfStudents: 50,
+  numberOfStudents: 38,
 };
 
 // Todo 3.4 Add professor name as one of the fields of the object. Display the value of professor name.
