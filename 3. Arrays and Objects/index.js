@@ -44,14 +44,14 @@ const it114lObject = {
 };
 
 // Todo 3.4 Add professor name as one of the fields of the object. Display the value of professor name.
-it114lObject.professorName = "Dr. Smith";
+it114lObject.professorName = "Job Lipat";
 console.log("Professor Name:", it114lObject.professorName);
 
 // Todo 3.5 Declare an array of objects with information about the courses you are taking this term
 const coursesArray = [
   { courseCode: "IT114L", units: 3 },
-  { courseCode: "Math101", units: 4 },
-  { courseCode: "English202", units: 3 },
+  { courseCode: "CS107", units: 2 },
+  { courseCode: "CS107L", units: 1 },
 ];
 
 // Todo 3.5 Calculate the total number of units you are taking this term using the array of objects.
