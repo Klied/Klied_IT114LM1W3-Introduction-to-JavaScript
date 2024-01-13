@@ -87,6 +87,6 @@ const planes = {"A-10", "F22", "F35", "F4", "F15", "F16"};
 
 // Checkpoint 1.5 What does [] == false evaluate to? Why does that happen? Research why
 // Answer: [] is falsy and '0' is string , 
-// js is not able to coerce them to convert the to type which can be compared . so false is returned .
+//js is not able to coerce them to convert the to type which can be compared . so false is returned .
 // Your code here
 console.log( [] == '0'); 
